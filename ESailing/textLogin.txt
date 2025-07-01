@@ -1,0 +1,8 @@
+Andrei,Andy,123,ATHLETE
+Alin,Al,123,ATHLETE
+Ana,Ani,123,ATHLETE
+Ioana,IO,123,SECRETARY
+admin,admin,admin,ADMIN
+a,a,a,ADMIN
+
+sada,sadas,asdassada,VISITOR
